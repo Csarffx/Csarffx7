@@ -8,27 +8,27 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51935763050', '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],  
-  ['51935763050', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],	
-  ['51935763050'],
-  ['51935763050'],
-  ['51935763050'],	
-  ['51935763050']
+  ['  56922224359', '𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['569222243590', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],  
+  ['56922224359', '@𝐂𝐬𝐚𝐫𝐟𝐟𝐱', true],	
+  ['56922224359'],
+  ['56922224359'],
+  ['56922224359'],	
+  ['56922224359']
 ] 
 
-global.suittag = ['51935763050'] 
-global.prems = ['51935763050'] 
+global.suittag = ['56922224359'] 
+global.prems = ['56922224359'] 
 
-global.packname = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
-global.author = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
-global.wm = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
-global.igfg = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.packname = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
+global.author = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
+global.wm = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
+global.igfg = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -431,8 +431,8 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ MafiaChilena`
-global.gt = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
-global.mysticbot = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.gt = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
+global.mysticbot = '𝐂𝐬𝐚𝐫𝐟𝐟𝐱'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'

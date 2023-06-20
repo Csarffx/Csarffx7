@@ -17,7 +17,7 @@ say('Geral Bot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Bot creado por Geral Bot 51935763050`, {
+say(`Bot creado por Csarffx X +56922224359`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})

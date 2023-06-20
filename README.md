@@ -1,6 +1,6 @@
-# Botprueba
-### `—◉ 👑 ¡Hola! Geral Bot?, CONTACTAME 👑`
-<a href="http://wa.me/+51935763050" target="blank"><img src="https://img.shields.io/badge/Geral Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+# BotCsarffx
+### `—◉ 👑 ¡Hola! 𝐂𝐬𝐚𝐫𝐟𝐟𝐱 Bot?, CONTACTAME 👑`
+<a href="http://wa.me/+56922224359" target="blank"><img src="https://img.shields.io/badge/Geral Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -22,7 +22,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 
 
 bash
-git clone https://github.com/GeralBot/Propio
+git clone https://github.com/Csarffx/Csarffx7
 
 
 bash
@@ -54,14 +54,14 @@ npm start
 ### `—◉ ✔ ACTIVAR EN CASO DE DETENERSE ✔`
 bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Permanente
+> cd Csarffx7
 > npm start
 
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Permanente
+> cd Csarffx7
 > rm -rf session.data.json
 > npm start
 
@@ -83,7 +83,7 @@ bash
 
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`Geral __________ Geral?`
+`𝐂𝐬𝐚𝐫𝐟𝐟𝐱 __________ 𝐂𝐬𝐚𝐫𝐟𝐟𝐱?`
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
